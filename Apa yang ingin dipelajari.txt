@@ -1,0 +1,3 @@
+Yang ingin dipelajari 
+- git dan git hub
+- react js
